@@ -1,0 +1,15 @@
+Feature1,Feature2,Class
+Sunny,Hot,Yes
+Sunny,Hot,Yes
+Overcast,Hot,Yes
+Rainy,Mild,Yes
+Rainy,Cool,Yes
+Rainy,Cool,No
+Overcast,Cool,No
+Sunny,Mild,Yes
+Sunny,Cool,Yes
+Rainy,Mild,No
+Sunny,Mild,No
+Overcast,Mild,Yes
+Overcast,Hot,No
+Rainy,Mild,Yes

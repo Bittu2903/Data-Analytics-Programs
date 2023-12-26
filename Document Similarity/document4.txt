@@ -1,0 +1,26 @@
+Frequency lists have many applications in the realm of second language acquisition and beyond. One use for such lists in the context of the Wiktionary project is as an aid in identifying missing terms of high-frequency and thus, it is assumed, of high priority. Since English Wiktionary aims not just to be a mere database of lemmas, but a multi-directional, multi-lingual dictionary aimed at English speaking users, there are certain advantages to lists which include inflected forms as well. These forms reflect words as they are likely to be encountered and thus as they may be used in lookup.
+Feel free to add definitions for words on these lists if you know the languages involved! Even better if you can include usage citations and references. If you are involved in another non-English language edition of Wiktionary, you might also consider implementing or expanding on this idea, if there is not already something similar in place. If you see a word in this list that is clearly out of place (wrong language, punctuation, superfluous capitalisation), you are welcome to remove it. While creating entries for words, please leave valid bluelinks in place as these pages may be copied for use with other language projects in the future.
+However, this system is far from perfect due to the variable quality of the source data and the automated nature of processing. Thus a word's presence in any of these lists is merely an invitation for further investigation as to whether an entry is warranted. Please be mindful that there will be many words which
+are misspelt,
+are not commonly accepted words of the language for which they appear,
+are not words at all,
+or do not fulfil the Wiktionary Criteria for Inclusion.
+Collocations may or may not warrant their own individual entries, and not necessarily in the exact form they appear here. As an aid to navigating this list, consider enabling the OrangeLinks.js gadget to reveal headword pages which exist (and so will still show a blue link) but which do not yet contain an entry for the relevant language. Please be mindful too that not all of the resources listed here are suitable for use directly in Wiktionary, mainly due to problems with licensing compatibilities.
+
+
+See also
+Appendix:Swadesh lists
+Appendix:Vocabulary lists
+Appendix:Character frequency
+Wiktionary:List of languages
+Wiktionary:Multilingual statistics
+Category:Basic word lists by language
+Category:Basic word lists by family
+Swahili Frequency Lists
+Frequency list of Swahili by Arvi Hurskainen
+External links
+Resources covering many languages
+Word frequency lists from 10K up to 1M+ for 270+ languages, available for download as part of the Leipzig Corpora Collection (CC BY-4.0)
+50K and larger word lists based on www.opensubtitles.org for 60+ Languages (CC BY-SA-4.0)
+Frequency lists for English, Russian, Arabic, Chinese, French, German, Greek, Italian, Japanese, Portuguese and Spanish derived from corpora assembled by Leeds University's Centre for Translation Studies (CC BY-2.5)
+The wordfreq Python library contains large frequency lists for 40+ 
